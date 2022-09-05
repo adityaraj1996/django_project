@@ -8,3 +8,4 @@ dist
 *.exe
 *.bat
 venv
+db.sqlite3
